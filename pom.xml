@@ -28,7 +28,7 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>org.springframework</groupId>
+			<groupId>org.springframework </groupId>
 			<artifactId>spring-instrument</artifactId>
 		</dependency>
 		<dependency>
